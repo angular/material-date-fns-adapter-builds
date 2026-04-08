@@ -5,7 +5,7 @@ import { Locale } from 'date-fns';
 
 /** Adds date-fns support to Angular Material. */
 declare class DateFnsAdapter extends DateAdapter<Date, Locale> {
-    constructor(...args: unknown[]);
+    constructor();
     getYear(date: Date): number;
     getMonth(date: Date): number;
     getDate(date: Date): number;
