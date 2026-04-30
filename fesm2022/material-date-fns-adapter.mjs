@@ -205,7 +205,7 @@ class DateFnsAdapter extends DateAdapter {
   }
   static ɵfac = i0.ɵɵngDeclareFactory({
     minVersion: "12.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: DateFnsAdapter,
     deps: [],
@@ -213,7 +213,7 @@ class DateFnsAdapter extends DateAdapter {
   });
   static ɵprov = i0.ɵɵngDeclareService({
     minVersion: "22.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: DateFnsAdapter,
     autoProvided: false
@@ -221,7 +221,7 @@ class DateFnsAdapter extends DateAdapter {
 }
 i0.ɵɵngDeclareClassMetadata({
   minVersion: "12.0.0",
-  version: "22.0.0-next.9",
+  version: "22.0.0-next.10",
   ngImport: i0,
   type: DateFnsAdapter,
   decorators: [{
@@ -251,7 +251,7 @@ const MAT_DATE_FNS_FORMATS = {
 class DateFnsModule {
   static ɵfac = i0.ɵɵngDeclareFactory({
     minVersion: "12.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: DateFnsModule,
     deps: [],
@@ -259,13 +259,13 @@ class DateFnsModule {
   });
   static ɵmod = i0.ɵɵngDeclareNgModule({
     minVersion: "14.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: DateFnsModule
   });
   static ɵinj = i0.ɵɵngDeclareInjector({
     minVersion: "12.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: DateFnsModule,
     providers: [{
@@ -276,7 +276,7 @@ class DateFnsModule {
 }
 i0.ɵɵngDeclareClassMetadata({
   minVersion: "12.0.0",
-  version: "22.0.0-next.9",
+  version: "22.0.0-next.10",
   ngImport: i0,
   type: DateFnsModule,
   decorators: [{
@@ -292,7 +292,7 @@ i0.ɵɵngDeclareClassMetadata({
 class MatDateFnsModule {
   static ɵfac = i0.ɵɵngDeclareFactory({
     minVersion: "12.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: MatDateFnsModule,
     deps: [],
@@ -300,13 +300,13 @@ class MatDateFnsModule {
   });
   static ɵmod = i0.ɵɵngDeclareNgModule({
     minVersion: "14.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: MatDateFnsModule
   });
   static ɵinj = i0.ɵɵngDeclareInjector({
     minVersion: "12.0.0",
-    version: "22.0.0-next.9",
+    version: "22.0.0-next.10",
     ngImport: i0,
     type: MatDateFnsModule,
     providers: [provideDateFnsAdapter()]
@@ -314,7 +314,7 @@ class MatDateFnsModule {
 }
 i0.ɵɵngDeclareClassMetadata({
   minVersion: "12.0.0",
-  version: "22.0.0-next.9",
+  version: "22.0.0-next.10",
   ngImport: i0,
   type: MatDateFnsModule,
   decorators: [{
