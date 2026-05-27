@@ -1,6 +1,6 @@
 {
   "name": "@angular/material-date-fns-adapter",
-  "version": "21.2.12+sha-e43b7aa",
+  "version": "21.2.13+sha-7828452",
   "description": "Angular Material date-fns Adapter",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/angular/components#readme",
   "peerDependencies": {
-    "@angular/material": "21.2.12+sha-e43b7aa",
+    "@angular/material": "21.2.13+sha-7828452",
     "@angular/core": "^21.0.0 || ^22.0.0",
     "date-fns": ">2.20.0 <5.0"
   },
