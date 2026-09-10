@@ -42,7 +42,7 @@ declare class DateFnsAdapter extends DateAdapter<Date, Locale> {
     addSeconds(date: Date, amount: number): Date;
     private _parse;
     static ɵfac: i0.ɵɵFactoryDeclaration<DateFnsAdapter, never>;
-    static ɵprov: i0.ɵɵInjectableDeclaration<DateFnsAdapter>;
+    static ɵprov: i0.ɵɵInjectableDeclaration<any>;
 }
 
 declare const MAT_DATE_FNS_FORMATS: MatDateFormats;
